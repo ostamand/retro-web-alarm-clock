@@ -6,6 +6,8 @@ I like the retro filling of a big push button & a LCD screen. However, I do appr
 
 This is why I built this retro outside / techno inside bedside alarm clock.
 
+![alarm_box](doc/alarm_box.png)
+
 ## Features
 
 * MP3 custom alarm sound 
@@ -31,4 +33,5 @@ This is why I built this retro outside / techno inside bedside alarm clock.
 
 The following are the main components of the alarm clock:
 
-* 
+* DS1307 real time clock 
+* [Adafruit Feather Huzzah ESP8266](https://www.adafruit.com/product/2821)
